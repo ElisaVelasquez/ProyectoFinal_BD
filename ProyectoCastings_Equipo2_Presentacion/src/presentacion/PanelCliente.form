@@ -115,7 +115,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel5">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Telefono:"/>
+            <Property name="text" type="java.lang.String" value="Tel&#xe9;fono:"/>
           </Properties>
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
@@ -179,7 +179,7 @@
                     <Column editable="false" title="ID" type="java.lang.Integer"/>
                     <Column editable="false" title="Nombre" type="java.lang.String"/>
                     <Column editable="false" title="Direcci&#xf3;n" type="java.lang.String"/>
-                    <Column editable="false" title="Telefono" type="java.lang.String"/>
+                    <Column editable="false" title="Tel&#xe9;fono" type="java.lang.String"/>
                     <Column editable="false" title="Persona contacto" type="java.lang.String"/>
                     <Column editable="false" title="Tipo actividad" type="java.lang.String"/>
                   </Table>

@@ -102,8 +102,8 @@ public class FrmPrincipal extends javax.swing.JFrame {
         panelPrincipal.setBackground(new java.awt.Color(174, 198, 207));
         panelPrincipal.setPreferredSize(new java.awt.Dimension(1160, 598));
 
+        jLabel1.setText("Sistema general para generación de castings para empresas");
         jLabel1.setFont(new java.awt.Font("Yu Gothic", 0, 36)); // NOI18N
-        jLabel1.setText("Sistema general para generacion de castings para empresas");
 
         javax.swing.GroupLayout panelPrincipalLayout = new javax.swing.GroupLayout(panelPrincipal);
         panelPrincipal.setLayout(panelPrincipalLayout);
@@ -124,7 +124,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
 
         jMenuBar1.setBackground(new java.awt.Color(204, 204, 204));
 
-        jMenu1.setText("Menu");
+        jMenu1.setText("Menú");
 
         menuRegistrarCliente.setText("Registrar Cliente");
         menuRegistrarCliente.addActionListener(new java.awt.event.ActionListener() {

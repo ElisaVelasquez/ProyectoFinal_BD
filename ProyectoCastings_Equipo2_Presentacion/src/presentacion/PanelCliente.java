@@ -93,7 +93,7 @@ public class PanelCliente extends javax.swing.JPanel {
         jLabel4.setText("Dirección:");
         fondo.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 130, -1, -1));
 
-        jLabel5.setText("Telefono:");
+        jLabel5.setText("Teléfono:");
         fondo.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 170, -1, -1));
 
         jLabel6.setText("Contacto:");
@@ -121,7 +121,7 @@ public class PanelCliente extends javax.swing.JPanel {
 
             },
             new String [] {
-                "ID", "Nombre", "Dirección", "Telefono", "Persona contacto", "Tipo actividad"
+                "ID", "Nombre", "Dirección", "Teléfono", "Persona contacto", "Tipo actividad"
             }
         ) {
             Class[] types = new Class [] {

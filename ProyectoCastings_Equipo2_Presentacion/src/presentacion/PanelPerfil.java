@@ -174,8 +174,8 @@ public class PanelPerfil extends javax.swing.JPanel {
         jLabel5.setText("Color ojos:");
         jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 180, -1, -1));
 
-        jLabel6.setText("Requiere Experiencia");
-        jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 210, 100, 40));
+        jLabel6.setText("Requiere Experiencia:");
+        jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 210, 110, 40));
 
         txtColorOjos.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyTyped(java.awt.event.KeyEvent evt) {
@@ -268,13 +268,13 @@ public class PanelPerfil extends javax.swing.JPanel {
         jPanel1.add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 270, -1, -1));
 
         jLabel13.setText("Nombre cliente:");
-        jPanel1.add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(520, 340, -1, -1));
+        jPanel1.add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 340, -1, -1));
 
         jLabel14.setText("Nombre agente:");
-        jPanel1.add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(520, 380, -1, -1));
+        jPanel1.add(jLabel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 380, -1, -1));
 
-        jLabel15.setText("TipoCasting");
-        jPanel1.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(540, 420, 70, 20));
+        jLabel15.setText("Tipo de casting:");
+        jPanel1.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(530, 420, 80, 20));
 
         txtNombreCliente.setEditable(false);
         jPanel1.add(txtNombreCliente, new org.netbeans.lib.awtextra.AbsoluteConstraints(620, 340, 210, -1));
